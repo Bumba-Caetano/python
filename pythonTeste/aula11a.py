@@ -1,0 +1,5 @@
+print("\033[4;30;45mOLa, Mundo!\033[m")
+print("\033[7;34;32mOLA, Mundo!\033[m")
+print("\033[1;34;41mOLA, Mundo!\033[m")
+print("\033[;34;32mOLA, Mundo!\033[m")
+print("\033[7;34;32mOLA, Mundo!\033[m")
